@@ -110,7 +110,7 @@ export const Contact = () => {
                   </span>
                 </h2>
                 <p className="text-muted-foreground animate-fade-in animation-delay-300">
-                    Have a project in mind? I'd love to hear about it. send me a message
+                    Have a project in mind? I'd love to hear about it. Send me a message
                     and let's discuss how we can work together.
                 </p>
             </div>
