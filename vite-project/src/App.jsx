@@ -5,8 +5,10 @@ import { Experience } from "@/sections/Experience";
 import { Projects } from "@/sections/Projects";
 import { Testimonials } from "@/sections/Testimonials";
 import { Navbar } from "@/layout/Navbar";
-import { Analytics } from "@vercel/analytics/next"
+import { inject } from "@vercel/analytics";
 
+
+inject();
 function App() {
 
   return (
@@ -20,7 +22,7 @@ function App() {
         <Testimonials />
         <Contact />
       </main>
-      <Analytics />
+      
     </div>
   );
 }
