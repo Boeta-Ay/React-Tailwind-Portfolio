@@ -15,7 +15,7 @@ export const Experience = () => {
 
                 
                     <div className="space-y-8 border-primary/60 glass rounded-2xl p-6 animate-fade-in animation-delay-300">
-                    <p className="text-lg font-medium text-muted-foreground">
+                    <p className="font-medium text-muted-foreground">
                         I am an early-career full-stack developer with practical experience gained through building real projects rather than commercial employment. 
                         So far, I have developed two complete systems as well as my personal portfolio website, where I applied modern development practices and 
                         strengthened my skills in both frontend and backend development. These projects helped me understand the full software development process, 
