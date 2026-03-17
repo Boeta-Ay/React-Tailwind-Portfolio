@@ -20,12 +20,12 @@ export const Experience = () => {
                         So far, I have developed two complete systems as well as my personal portfolio website, where I applied modern development practices and 
                         strengthened my skills in both frontend and backend development. These projects helped me understand the full software development process, 
                         including planning, designing, building, testing, and improving applications.</p>
-                     <p>   
+                     <p className="font-medium text-muted-foreground">   
                         I am currently working on an enterprise-style Property Management System to further expand my knowledge and gain deeper experience with 
                         scalable application design and real-world problem solving. Each project I build is an opportunity for me to learn something new and improve
                         my technical abilities.
                     </p>
-                    <p>
+                    <p className="font-medium text-muted-foreground">
                         While I am still growing professionally, I am highly motivated, eager to learn, and open to feedback. I am actively looking for opportunities 
                         where I can gain industry experience, contribute to meaningful projects, and continue developing into a well-rounded software developer.
                     </p>
