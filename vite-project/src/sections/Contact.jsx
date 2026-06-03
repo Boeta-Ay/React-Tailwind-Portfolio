@@ -16,15 +16,16 @@ const contactInfo = [
     {
         icon: Phone,
         label: "Phone",
-        value: "+27 65 890 3198",
-        href: "tel:+27658903198",
+        value: "+27 63 435 5753",
+        href: "tel:+27634355735",
     },
 
     {
         icon: MapPin,
         label: "Location",
-        value: "Port Elizabeth, South Africa",
-        href: "https://www.google.com/maps?q=Port+Elizabeth,+South+Africa"
+        value: "Illovo, Johannesburg, Gauteng",
+        // href: "https://www.google.com/maps?q=Port+Elizabeth,+South+Africa"
+         href: "https://maps.app.goo.gl/8xVabbFRJzM45U9x5"
     },
 
 ];
